@@ -1,0 +1,2 @@
+C:\Users\MEEKUN\source\repos\TASK2 - Word count\obj\Debug\TASK2 - Word count.csprojAssemblyReference.cache
+C:\Users\MEEKUN\source\repos\TASK2 - Word count\obj\Debug\TASK2 - Word count.csproj.CoreCompileInputs.cache
